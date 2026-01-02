@@ -4,7 +4,7 @@
 
 | Home Page | Code Generation | Fullscreen Preview |
 |-----------|----------------|-------------------|
-| ![Home](src/assets/home.png/) | ![Preview](src/assets/addProduct.png.png/) | ![Code](src/assets/result.png.png/) |
+| ![Home](src/assets/home.png/) | ![Preview](src/assets/addProduct.png/) | ![Code](src/assets/result.png/) |
 
 ---
 
