@@ -2,9 +2,9 @@
 
 **A clean, focused UI for listing and managing products built with Vite + React.**
 
-| Home Page | Code Generation | Fullscreen Preview |
+| Home Page | Add Product | Fullscreen Preview |
 |-----------|----------------|-------------------|
-| ![Home](src/assets/home.png/) | ![Preview](src/assets/addProduct.png/) | ![Code](src/assets/result.png/) |
+| ![Home](src/assets/home.png/) | ![Product](src/assets/addProduct.png/) | ![Result](src/assets/result.png/) |
 
 ---
 
